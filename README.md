@@ -1,3 +1,9 @@
+# URL
+http://localhost:3000 => get data Sekolah dan Pengguna
+http://localhost:3000/sekolah => get data Sekolah
+http://localhost:3000/pengguna => get data Pengguna
+http://localhost:3000/form => form input
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
